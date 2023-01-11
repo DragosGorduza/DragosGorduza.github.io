@@ -12,7 +12,20 @@ This is my personal & academic webpage. I will feature projects interests and up
 ======
 I am a Phd Student in the Engineering Department of the University of Oxford. I am working in the Oxford Man Institute of Quantitative Science. I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science applied to finance. 
 
-For more information about my research, please go to my research page.
+For more information about my work please visit the following links : 
+* Publications page for my latest publications
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  <ul>{site.publications}</ul>
+* Talks page for the talks I ran or participated in
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+* Teaching for information and ressources about my teaching experience
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 <!--
 Getting started
