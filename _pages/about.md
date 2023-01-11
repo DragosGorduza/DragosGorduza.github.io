@@ -9,14 +9,13 @@ redirect_from:
 ---
 
 This is my personal page where I will feature projects interests and updates. 
-
-A data-driven personal website
 ======
-Fir instance : 
+I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science. 
+
 
 Getting started
 ======
-
+All my projects 
 
 Site-wide configuration
 ------
