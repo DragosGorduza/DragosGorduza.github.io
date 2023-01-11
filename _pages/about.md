@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal page where I will feature projects interests and updates. 
+Welcome ! This is Dragos Gorduza's personal webpage. I will feature projects interests and updates. 
 ======
-I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science. 
+I am a Phd Student in the ENgineering Department of the University of Oxford. I am working in the Oxford Man Institute of Quantitative Science. I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science applied to finance. 
+
+For more information about my research, please go to my research page.
 
 
 Getting started
 ======
-All my projects 
+My most recent projects 
 
 Site-wide configuration
 ------

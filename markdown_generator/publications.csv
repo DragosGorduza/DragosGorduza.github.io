@@ -1,0 +1,4 @@
+﻿pub_date;title;venue;excerpt;citation;url_slug;paper_url
+10/09/2022;Paper Title Number 1;Arxiv;We propose to use the edge reconstruction accuracy of a graph auto-encoder (GAE) as an  indicator for how spatially homogeneous connections between assets are, which, based on financial network literature, we use as a proxy to infer market volatility.;"Gorduza, Dong, Zohren. (2022). ""Understanding stock market instability via graph auto-encoders"" <i></i>. 1(1).";GAE_stockmarket;
+;;;;;;
+;;;;;;
