@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Understanding stock market instability via graph auto-encoders"
 collection: publications
 permalink: /publication/10/09/2022-GAE_stockmarket
 excerpt: 'We propose to use the edge reconstruction accuracy of a graph auto-encoder (GAE) as an  indicator for how spatially homogeneous connections between assets are, which, based on financial network literature, we use as a proxy to infer market volatility.'
