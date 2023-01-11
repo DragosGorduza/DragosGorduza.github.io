@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dragos Gorduza"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "DPhil candidate at the University of Oxford"
+  employer         : "University of Oxford"
   location         : "Oxford, United Kingdom"
-  employer         : "DPhil candidate at the University of Oxford"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : dragos.gorduza[at]st-annes.ox.ac.uk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
