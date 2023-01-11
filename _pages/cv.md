@@ -39,16 +39,16 @@ Work experience
   * Taught Machine Learning and Statistics
 
 * Oct. 2019 - Jan. 2019 Oxford Internet Institute, Computational Propaganda Project – Research Assistant:
-  * - Built fake-news detection Deep Learning model (Pytorch + Transformer Models)
-  * - Produced academic research and actuality synthesis
+  * Built fake-news detection Deep Learning model (Pytorch + Transformer Models)
+  * Produced academic research and actuality synthesis
 
 * Jul. 2019 - Sept. 2019 DreamQuark – Data Science Engineer Intern:
-  * - Developed a model of churn prediction for insurance companies on large scale datasets
-  * - Implemented a pipeline in Docker to benchmark the company’s Auto-ML solution 
+  * Developed a model of churn prediction for insurance companies on large scale datasets
+  * Implemented a pipeline in Docker to benchmark the company’s Auto-ML solution 
 
 * Oct. 2018 - Jun. 2019  Flattus Voccis, Research on ethics and AI Philosophy – Research Assistant:
-  * - Researched Machine Learning ethics for the book “La fin de l’individu” by G. Koenig
-  * - Implemented research on the future of work and sustainability in the age of automation 
+  * Researched Machine Learning ethics for the book “La fin de l’individu” by G. Koenig
+  * Implemented research on the future of work and sustainability in the age of automation 
 
 
 Language
@@ -75,7 +75,18 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* 
+* Supervised :
+  * Image Recognition (MNIST, CatsvsDogs Classifier ...)
+  * Natural Language Processing( LSTM Adversarial attack, POS tagging, Spam filter ...)
+  * Network Analysis & Graph Neural Networks
+  * Attention & Transformer Models (BERT, ELMO...)
+* Unsupervised :
+  * KNN
+  * Recommender Systems
+  * Topic Modelling
+  * Hierarchical clustering (identifying closest topics, matching closest consumer baskets...)
+* Reinforcement Learning :
+  * Deep Q Learning
 
 Publications
 ======
@@ -97,4 +108,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Middle Common Room Academic Representative 2022-2023
+* Middle Common Room Academic Representative 2021-2022
+* Printemps de l’Economie – Co-director of the Organisational Comitee March 2017
+
+
+
+
+
+
+
