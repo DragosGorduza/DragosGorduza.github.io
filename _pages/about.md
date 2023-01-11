@@ -10,11 +10,11 @@ redirect_from:
 
 Welcome ! This is Dragos Gorduza's personal webpage. I will feature projects interests and updates. 
 ======
-I am a Phd Student in the ENgineering Department of the University of Oxford. I am working in the Oxford Man Institute of Quantitative Science. I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science applied to finance. 
+I am a Phd Student in the Engineering Department of the University of Oxford. I am working in the Oxford Man Institute of Quantitative Science. I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science applied to finance. 
 
 For more information about my research, please go to my research page.
 
-
+<!--
 Getting started
 ======
 My most recent projects 
@@ -42,3 +42,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
