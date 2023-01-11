@@ -71,10 +71,7 @@ Skills
 * Adobe Pack 
 * Office Pack
 
-* Natural Language Processing  
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+
 * Supervised :
   * Image Recognition (MNIST, CatsvsDogs Classifier ...)
   * Natural Language Processing( LSTM Adversarial attack, POS tagging, Spam filter ...)
