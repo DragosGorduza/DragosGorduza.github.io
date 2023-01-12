@@ -15,6 +15,7 @@ I am a Phd Student in the Engineering Department of the University of Oxford. I 
 For more information about my work please visit the following links : 
 * Publications page for my latest publications
   {% link site.publications %}
+  <u><a href="{{https://dragosgorduza.github.io/publications/}}">my Google Scholar profile</a>.</u>
 * Talks page for the talks I ran or participated in
   
 * Teaching for information and ressources about my teaching experience
