@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website !"
+title: "Hi, I'm Dragos!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal & academic webpage. I will feature projects interests and updates. 
+This is the webpage featuring my projects interests and updates. 
 ======
 I am a Phd Student in the Engineering Department of the University of Oxford. I am working in the Oxford Man Institute of Quantitative Science. I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science applied to finance. 
 
 For more information about my work please visit the following links : 
-* <u><a href="{{https://dragosgorduza.github.io/publications/}}">Publications</a>.</u> page for my latest publications
-* <u><a href="{{https://dragosgorduza.github.io/talks/}}">Talks</a>.</u> page for my latest talks
-* <u><a href="{{https://dragosgorduza.github.io/teaching/}}">Teaching</a>.</u> page for my latest teaching
+* <u><a href="{{https://dragosgorduza.github.io/publications/}}">Publications</a></u> page for my latest publications
+* <u><a href="{{https://dragosgorduza.github.io/talks/}}">Talks</a></u> page for my latest talks
+* <u><a href="{{https://dragosgorduza.github.io/teaching/}}">Teaching</a></u> page for my latest teaching
   
 
 <!--
