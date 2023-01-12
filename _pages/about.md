@@ -14,18 +14,12 @@ I am a Phd Student in the Engineering Department of the University of Oxford. I 
 
 For more information about my work please visit the following links : 
 * Publications page for my latest publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
   <ul>{site.publications}</ul>
 * Talks page for the talks I ran or participated in
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  
 * Teaching for information and ressources about my teaching experience
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
 
 <!--
 Getting started
