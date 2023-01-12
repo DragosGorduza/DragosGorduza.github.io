@@ -13,11 +13,9 @@ This is my personal & academic webpage. I will feature projects interests and up
 I am a Phd Student in the Engineering Department of the University of Oxford. I am working in the Oxford Man Institute of Quantitative Science. I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science applied to finance. 
 
 For more information about my work please visit the following links : 
-* Publications page for my latest publications
-  <u><a href="{{https://dragosgorduza.github.io/publications/}}">my Google Scholar profile</a>.</u>
-* Talks page for the talks I ran or participated in
-  
-* Teaching for information and ressources about my teaching experience
+* <u><a href="{{https://dragosgorduza.github.io/publications/}}">Publications</a>.</u> page for my latest publications
+* <u><a href="{{https://dragosgorduza.github.io/talks/}}">Talks</a>.</u> page for my latest talks
+* <u><a href="{{https://dragosgorduza.github.io/teaching/}}">Teaching</a>.</u> page for my latest teaching
   
 
 <!--
