@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the webpage featuring my projects interests and updates. 
+This is the webpage featuring my projects, interests and updates. 
 ======
 I am a Phd Student in the Engineering Department of the University of Oxford. I am working in the Oxford Man Institute of Quantitative Science. I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science applied to finance. 
 
