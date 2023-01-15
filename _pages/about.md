@@ -10,7 +10,7 @@ redirect_from:
 
 This is the webpage featuring my projects, interests and updates. 
 ======
-I am a Phd Student in the Engineering Department of the University of Oxford. I am working in the Oxford Man Institute of Quantitative Science. I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science applied to finance. 
+I am a Phd Student in the Engineering Department of the University of Oxford. I am working in the Oxford Man Institute of Quantitative Science. I am interested in Graph Machine Learning, Natural Language Processing and Social Data Science applied to finance.  if you're interested in these topics too, or would like to chat about research please feel free to contact me at dragos.gorduza@st-annes.oc.ac.uk.
 
 For more information about my work please visit the following links : 
 * <u><a href="{{https://dragosgorduza.github.io/publications/}}">Publications</a></u> page for my latest publications
