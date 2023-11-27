@@ -58,6 +58,23 @@ Work experience
   * Implemented research on the future of work and sustainability in the age of automation 
 
 
+Software
+======
+* Python
+* R 
+* Javascript 
+* HTML 5 
+* CSS3
+
+Specialty
+======
+* Natural Language Processing
+* Graph Machine Learning
+* Network Science
+* Data Science
+* Data Engineering
+
+
 Language
 ======
 * Romanian : Native
@@ -67,30 +84,6 @@ Language
 * Japanese : Intermediate ( N5 level )
 * German : Beginner (A1 level )
 
-
-Skills
-======
-* Python
-* R 
-* Javascript 
-* HTML 5 
-* CSS3
-* Adobe Pack 
-* Office Pack
-
-
-* Supervised :
-  * Image Recognition (MNIST, CatsvsDogs Classifier ...)
-  * Natural Language Processing( LSTM Adversarial attack, POS tagging, Spam filter ...)
-  * Network Analysis & Graph Neural Networks
-  * Attention & Transformer Models (BERT, ELMO...)
-* Unsupervised :
-  * KNN
-  * Recommender Systems
-  * Topic Modelling
-  * Hierarchical clustering (identifying closest topics, matching closest consumer baskets...)
-* Reinforcement Learning :
-  * Deep Q Learning
 
 Publications
 ======
@@ -110,10 +103,17 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Funding Awards
+======
+* Advanced Quantitative Methods Scholarship from the Grand Union Doctoral Training Pathway 2021-2024
+* Narrative Detection and tracking from the Alan Turing Institute 2022-2023
+
 Service and leadership
 ======
-* Middle Common Room Academic Representative 2022-2023
-* Middle Common Room Academic Representative 2021-2022
+* Oxford Sustainable Finance Society - Academic Officer & Reading group manager 2023-2024
+* Oxford Sustainable Finance Society - Academic Officer & Reading group manager 2022-2023
+* St Annes College Middle Common Room Academic Representative 2022-2023
+* Middle Common Room Academic Representative St Annes College 2021-2022
 * Printemps de l’Economie – Co-director of the Organisational Comitee March 2017
 
 
