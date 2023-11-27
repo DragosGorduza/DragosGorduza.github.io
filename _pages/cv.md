@@ -11,18 +11,26 @@ redirect_from:
 
 Education
 ======
-* **Bachelor**, Sciences Po Paris, Paris,  2016-2019
-* **General Course Diploma**, London School of Economics and Political Science, London, 2018-2019
-* **Master of Science in Social Data Science**,Oxford Internet Institute University of Oxford, Oxford, 2019-2020
-* **Master of Science in Computational Linguistics**, University Paris 7, Paris, 2020-2021
 * **Dphil (PhD) in Engineering**, Oxford Man Institute of Quantitative Finance, 2021-2024 (expected)
+* **Master of Science in Computational Linguistics**, University Paris 7, Paris, 2020-2021
+* **Master of Science in Social Data Science**,Oxford Internet Institute University of Oxford, Oxford, 2019-2020
+* **General Course Diploma**, London School of Economics and Political Science, London, 2018-2019
+* **Bachelor**, Sciences Po Paris, Paris,  2016-2019
 
 
 Work experience
 ======
 
+* **Jan. 2023 - Present Alan Turing Institute – NLP Researcher**
+  * Running NLP & Graph Machine Learning research project on financial narratives ahead of conference publication
+  * Built computational tools for narrative extraction and exploitation for risk assessment
+
+* **Jul. 2023 - Oct. 2023 Bank of England – PhD Research Intern**
+  * Researched and built a Large Language Model applied to prudential regulation within the Prudential Rgulation Authority ARTIS division
+  * Collaborated with researchers and supervisors for data solutions for bank policy
+
 * **Sep. 2022 - Dec. 2022 ETH Zurich – Data Scientist**
-  * Built business risk network from SEC and news analysis.
+  * Built business risk network from SEC and news analysis
   * Extracted news narratives in joint project with ETH Zurich
 
 * **Dec. 2021 - Apr. 2022 Oxford Data Plan – Data Scientist**
