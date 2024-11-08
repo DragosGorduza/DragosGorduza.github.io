@@ -34,7 +34,7 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.csv", sep="\t", header=0)
+publications = pd.read_csv("publications_tsv.tsv", sep="\t", header=0)
 publications
 
 
@@ -85,7 +85,7 @@ for row, item in publications.iterrows():
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
-    
+    print(item.citation)
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
@@ -102,7 +102,7 @@ for row, item in publications.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("DragosGorduza.github.io/_publications/" + md_filename, 'w') as f:
+    with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
 
 
